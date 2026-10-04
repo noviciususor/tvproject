@@ -1,3 +1,6 @@
+<img width="2172" height="724" alt="logo" src="https://github.com/user-attachments/assets/3ebe24c0-f7ed-4653-b8b5-675bab565bb1" />
+
+
 # IPTV Project
 
 Greek and Russian IPTV playlists maintained by **noviciususor** for IPTV applications, Android TV and media players that support the M3U format.
