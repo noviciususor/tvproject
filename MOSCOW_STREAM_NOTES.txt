@@ -1,0 +1,6 @@
+Updated 2026-11-14
+Perviy Kanal: http://5.188.221.43:8080/play/ort
+Zvezda: https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+Both sourced from public IPTV listings; playback and actual Moscow feed NOT independently verified.
+MSK UTC+3 is a channel label, not a stream time shift or EPG adjustment.
+All other channels unchanged. Network checks were blocked by environment.
