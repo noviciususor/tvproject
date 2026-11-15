@@ -8,7 +8,7 @@
 #EXTGRP:ΒΑΣΙΚΑ ΚΑΝΑΛΙΑ - BASIC CHANNELS
 
 # SOURCE: https://github.com/musyaitsyou-beep/ruIPtv/blob/main/ruIPtv.m3u
-#EXTINF:-1 tvg-id="ChannelOne.ru@SD" tvg-name="Первый канал (Москва, MSK UTC+3)" tvg-logo="https://raw.githubusercontent.com/naggdd/iptv/master/logos/perviy.png" group-title="ΒΑΣΙΚΑ ΚΑΝΑΛΙΑ - BASIC CHANNELS", Первый канал (Москва, MSK UTC+3)
+#EXTINF:-1 tvg-id="ChannelOne.ru@SD" tvg-name="Первый канал" tvg-logo="https://raw.githubusercontent.com/naggdd/iptv/master/logos/perviy.png" group-title="ΒΑΣΙΚΑ ΚΑΝΑΛΙΑ - BASIC CHANNELS", Первый канал
 http://5.188.221.43:8080/play/ort
 
 # SOURCE: https://github.com/iptv-org/iptv/blob/master/streams/ru.m3u
@@ -24,7 +24,7 @@ http://31.148.5.241/kanal_4/tracks-v1a1/mono.ts.m3u8
 http://31.148.5.241/kanal_13/tracks-v1a1/mono.ts.m3u8
 
 # SOURCE: https://github.com/iptv-org/iptv/blob/master/streams/ru.m3u
-#EXTINF:-1 tvg-id="Zvezda.ru@SD" tvg-name="Звезда (Москва, MSK UTC+3)" tvg-logo="https://raw.githubusercontent.com/naggdd/iptv/master/logos/zvezda.png" group-title="ΒΑΣΙΚΑ ΚΑΝΑΛΙΑ - BASIC CHANNELS", Звезда (Москва, MSK UTC+3)
+#EXTINF:-1 tvg-id="Zvezda.ru@SD" tvg-name="Звезда" tvg-logo="https://raw.githubusercontent.com/naggdd/iptv/master/logos/zvezda.png" group-title="ΒΑΣΙΚΑ ΚΑΝΑΛΙΑ - BASIC CHANNELS", Звезда
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 
 #EXTGRP:ΛΟΙΠΑ ΚΑΝΑΛΙΑ - OTHERS
@@ -47,7 +47,7 @@ http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/mono.
 #EXTINF:-1 tvg-name="41 (Щелково)" group-title="ΡΩΣΙΑ - ΜΟΣΧΑ - RUSSIA - MOSCOW", 41 (Щелково)
 https://stream1.tv41.ru/hls/live.m3u8
 
-#EXTINF:-1 tvg-name="Moscow 24" group-title="ΡΩΣΙΑ - ΜΟΣΧΑ - RUSSIA - MOSCOW", Moscow 24
+#EXTINF:-1 tvg-name="Москва 24" group-title="ΡΩΣΙΑ - ΜΟΣΧΑ - RUSSIA - MOSCOW", Москва 24
 https://stream.smotrim.ru/hls2/moscow_24/playlist_3.m3u8
 
 #EXTINF:-1 tvg-name="Москва Доверие" tvg-logo="http://only4.tv/ch/417.png" group-title="ΡΩΣΙΑ - ΜΟΣΧΑ - RUSSIA - MOSCOW", Москва Доверие
@@ -69,7 +69,7 @@ http://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_SPBREGIONALHD/variant.m3u8
 
 #EXTGRP:ΡΩΣΙΑ - ΚΕΝΤΡΙΚΗ ΠΕΡΙΦΕΡΕΙΑ - RUSSIA - CENTRAL REGION
 
-#EXTINF:-1 tvg-name="1 Tulsky" group-title="ΡΩΣΙΑ - ΚΕΝΤΡΙΚΗ ΠΕΡΙΦΕΡΕΙΑ - RUSSIA - CENTRAL REGION", 1 Tulsky
+#EXTINF:-1 tvg-name="Первый Тульский" group-title="ΡΩΣΙΑ - ΚΕΝΤΡΙΚΗ ΠΕΡΙΦΕΡΕΙΑ - RUSSIA - CENTRAL REGION", Первый Тульский
 http://5.164.24.83/tula/1tv_hi/index.m3u8
 
 #EXTINF:-1 tvg-name="11 канал Экспресс (Пенза)" group-title="ΡΩΣΙΑ - ΚΕΝΤΡΙΚΗ ΠΕΡΙΦΕΡΕΙΑ - RUSSIA - CENTRAL REGION", 11 канал Экспресс (Пенза)
@@ -78,7 +78,7 @@ https://rt-vlg-penza-htlive.cdn.ngenix.net/hls/CH_R03_NASHDOM/variant.m3u8
 #EXTINF:-1 tvg-name="12 канал (Череповец)" group-title="ΡΩΣΙΑ - ΚΕΝΤΡΙΚΗ ΠΕΡΙΦΕΡΕΙΑ - RUSSIA - CENTRAL REGION", 12 канал (Череповец)
 https://rt-nw-vol-htlive.cdn.ngenix.net/hls/CH_R01_12CHANNEL/variant.m3u8
 
-#EXTINF:-1 tvg-name="1ы1" group-title="ΡΩΣΙΑ - ΚΕΝΤΡΙΚΗ ΠΕΡΙΦΕΡΕΙΑ - RUSSIA - CENTRAL REGION", 1ы1
+#EXTINF:-1 tvg-name="1×1" group-title="ΡΩΣΙΑ - ΚΕΝΤΡΙΚΗ ΠΕΡΙΦΕΡΕΙΑ - RUSSIA - CENTRAL REGION", 1×1
 https://tvcdn01.oktv.kz/tv/mtrk/playlist.m3u8
 
 #EXTINF:-1 tvg-name="35 (Вологда)" group-title="ΡΩΣΙΑ - ΚΕΝΤΡΙΚΗ ΠΕΡΙΦΕΡΕΙΑ - RUSSIA - CENTRAL REGION", 35 (Вологда)
@@ -512,7 +512,7 @@ https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_NGOR_URAL_SUR/variant.m
 #EXTINF:-1 tvg-name="ОТВ (Свердловская область)" group-title="ΡΩΣΙΑ - ΟΥΡΑΛΙΑ - RUSSIA - URALS", ОТВ (Свердловская область)
 https://vd.obltv.ru/watch/air_hd.m3u8
 
-#EXTINF:-1 tvg-name="OTV Chelyabinsk" group-title="ΡΩΣΙΑ - ΟΥΡΑΛΙΑ - RUSSIA - URALS", OTV Chelyabinsk
+#EXTINF:-1 tvg-name="ОТВ (Челябинск)" group-title="ΡΩΣΙΑ - ΟΥΡΑΛΙΑ - RUSSIA - URALS", ОТВ (Челябинск)
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_CHEL/variant.m3u8
 
 #EXTINF:-1 tvg-name="ПТВ (Первоуральск)" group-title="ΡΩΣΙΑ - ΟΥΡΑΛΙΑ - RUSSIA - URALS", ПТВ (Первоуральск)

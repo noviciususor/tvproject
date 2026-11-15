@@ -5,37 +5,37 @@
 #EXTINF:-1 tvg-name="ANT1" tvg-logo="https://i.imgur.com/V1w22Or.png" group-title="ΒΑΣΙΚΑ ΚΑΝΑΛΙΑ - BASIC CHANNELS", ANT1
 https://mcdn.antennaplus.gr/live/media0/Ant1/HLS/Ant1.m3u8
 
-#EXTINF:-1 group-title="ΒΑΣΙΚΑ ΚΑΝΑΛΙΑ - BASIC CHANNELS" tvg-name="star" tvg-logo="https://i.imgur.com/zGpwulO.png",STAR Channel
+#EXTINF:-1 group-title="ΒΑΣΙΚΑ ΚΑΝΑΛΙΑ - BASIC CHANNELS" tvg-name="STAR" tvg-logo="https://i.imgur.com/zGpwulO.png", STAR
 https://livestar.siliconweb.com/media/star4/star4.m3u8
 
-#EXTINF:-1 tvg-name="MEGA" tvg-logo="https://i.imgur.com/Dy4RR7G.png" group-title="ΒΑΣΙΚΑ ΚΑΝΑΛΙΑ - BASIC CHANNELS", Mega Channel
+#EXTINF:-1 tvg-name="MEGA" tvg-logo="https://i.imgur.com/Dy4RR7G.png" group-title="ΒΑΣΙΚΑ ΚΑΝΑΛΙΑ - BASIC CHANNELS", MEGA
 https://spark3.smart-tv-data.com/megaHD/megaHD/manifest.mpd
 
-#EXTINF:-1 group-title="ΒΑΣΙΚΑ ΚΑΝΑΛΙΑ - BASIC CHANNELS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/greece/alpha-tv-gr.png", ALPHA
+#EXTINF:-1 group-title="ΒΑΣΙΚΑ ΚΑΝΑΛΙΑ - BASIC CHANNELS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/greece/alpha-tv-gr.png" tvg-name="ALPHA", ALPHA
 https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/playlist.m3u8
 
-#EXTINF:-1 tvg-name="SKAI" tvg-logo="https://i.imgur.com/BXmta4G.png" group-title="ΒΑΣΙΚΑ ΚΑΝΑΛΙΑ - BASIC CHANNELS", Skai TV
+#EXTINF:-1 tvg-name="ΣΚΑΪ" tvg-logo="https://i.imgur.com/BXmta4G.png" group-title="ΒΑΣΙΚΑ ΚΑΝΑΛΙΑ - BASIC CHANNELS", ΣΚΑΪ
 https://skai-live.siliconweb.com/media/cambria4/index.m3u8
 
-#EXTINF:-1 tvg-name="OPEN TV" tvg-logo="https://i.imgur.com/72GOh2Z.png" group-title="ΒΑΣΙΚΑ ΚΑΝΑΛΙΑ - BASIC CHANNELS", Open TV
+#EXTINF:-1 tvg-name="OPEN" tvg-logo="https://i.imgur.com/72GOh2Z.png" group-title="ΒΑΣΙΚΑ ΚΑΝΑΛΙΑ - BASIC CHANNELS", OPEN
 https://liveopen.siliconweb.com/openTvLive/liveopen/playlist.m3u8
 
-#EXTINF:-1 tvg-name="ERT1" tvg-logo="https://i.imgur.com/slE8U5m.png" group-title="ΒΑΣΙΚΑ ΚΑΝΑΛΙΑ - BASIC CHANNELS", ERT1
+#EXTINF:-1 tvg-name="ΕΡΤ1" tvg-logo="https://i.imgur.com/slE8U5m.png" group-title="ΒΑΣΙΚΑ ΚΑΝΑΛΙΑ - BASIC CHANNELS", ΕΡΤ1
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERT1/default/playlist.m3u8
 
-#EXTINF:-1 tvg-name="ERT2" tvg-logo="https://i.imgur.com/o4BUdoL.png" group-title="ΒΑΣΙΚΑ ΚΑΝΑΛΙΑ - BASIC CHANNELS", ERT2
+#EXTINF:-1 tvg-name="ΕΡΤ2" tvg-logo="https://i.imgur.com/o4BUdoL.png" group-title="ΒΑΣΙΚΑ ΚΑΝΑΛΙΑ - BASIC CHANNELS", ΕΡΤ2
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERT2/default/playlist.m3u8
 
-#EXTINF:-1 tvg-name="ERT3" tvg-logo="https://i.imgur.com/rv4JLBO.png" group-title="ΒΑΣΙΚΑ ΚΑΝΑΛΙΑ - BASIC CHANNELS", ERT3
+#EXTINF:-1 tvg-name="ΕΡΤ3" tvg-logo="https://i.imgur.com/rv4JLBO.png" group-title="ΒΑΣΙΚΑ ΚΑΝΑΛΙΑ - BASIC CHANNELS", ΕΡΤ3
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERT3/default/playlist.m3u8
 
-#EXTINF:-1 tvg-name="ERT News" tvg-logo="https://i.imgur.com/HXbsPfB.png" group-title="ΒΑΣΙΚΑ ΚΑΝΑΛΙΑ - BASIC CHANNELS", ERT News
+#EXTINF:-1 tvg-name="ΕΡΤ NEWS" tvg-logo="https://i.imgur.com/HXbsPfB.png" group-title="ΒΑΣΙΚΑ ΚΑΝΑΛΙΑ - BASIC CHANNELS", ΕΡΤ NEWS
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTNews/default/index.m3u8
 
-#EXTINF:-1 tvg-name="Makedonia TV" tvg-logo="https://i.imgur.com/55NSQ50.png" group-title="ΒΑΣΙΚΑ ΚΑΝΑΛΙΑ - BASIC CHANNELS", Makedonia TV
+#EXTINF:-1 tvg-name="Μακεδονία TV" tvg-logo="https://i.imgur.com/55NSQ50.png" group-title="ΒΑΣΙΚΑ ΚΑΝΑΛΙΑ - BASIC CHANNELS", Μακεδονία TV
 https://mcdn.antennaplus.gr/live/media0/MAK/HLS/MAK.m3u8
 
-#EXTINF:-1 tvg-name="Vouli TV" tvg-logo="https://i.imgur.com/ToYaStx.png" group-title="ΒΑΣΙΚΑ ΚΑΝΑΛΙΑ - BASIC CHANNELS", Vouli TV
+#EXTINF:-1 tvg-name="Βουλή Τηλεόραση" tvg-logo="https://i.imgur.com/ToYaStx.png" group-title="ΒΑΣΙΚΑ ΚΑΝΑΛΙΑ - BASIC CHANNELS", Βουλή Τηλεόραση
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/VOULITV/default/index.m3u8
 
 #EXTINF:-1 tvg-name="Zougla TV" tvg-logo="https://i.imgur.com/AmW9d6H.jpg" group-title="ΒΑΣΙΚΑ ΚΑΝΑΛΙΑ - BASIC CHANNELS", Zougla TV
@@ -57,7 +57,7 @@ https://cdn5.smart-tv-data.com/ena/ena_channel/playlist.m3u8
 #EXTINF:-1 tvg-name="Alert TV" tvg-logo="" group-title="ΚΑΝΑΛΙΑ ΑΤΤΙΚΗΣ - ATTICA CHANNELS", Alert TV
 https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8
 
-#EXTINF:-1 tvg-name="One Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/One_Channel_Logo_2019.png" group-title="ΚΑΝΑΛΙΑ ΑΤΤΙΚΗΣ - ATTICA CHANNELS", One Channel (πρώην Channel 9)
+#EXTINF:-1 tvg-name="One Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/One_Channel_Logo_2019.png" group-title="ΚΑΝΑΛΙΑ ΑΤΤΙΚΗΣ - ATTICA CHANNELS", One Channel
 https://onechannel.siliconweb.com/one/stream/chunks.m3u8
 
 #EXTINF:-1 tvg-name="High TV" tvg-logo="https://i.imgur.com/YVjJFW2.png" group-title="ΚΑΝΑΛΙΑ ΑΤΤΙΚΗΣ - ATTICA CHANNELS", High TV
