@@ -8,8 +8,8 @@
 #EXTGRP:ΒΑΣΙΚΑ ΚΑΝΑΛΙΑ - BASIC CHANNELS
 
 # SOURCE: https://github.com/musyaitsyou-beep/ruIPtv/blob/main/ruIPtv.m3u
-#EXTINF:-1 tvg-id="ChannelOne.ru@SD" tvg-name="Первый канал (Москва, MSK UTC+3)" tvg-logo="https://raw.githubusercontent.com/naggdd/iptv/master/logos/perviy.png" group-title="ΒΑΣΙΚΑ ΚΑΝΑΛΙΑ - BASIC CHANNELS", Первый канал (Москва, MSK UTC+3)
-http://5.188.221.43:8080/play/ort
+#EXTINF:-1 tvg-id="ChannelOne.ru@SD" tvg-name="Первый канал (Москва)" tvg-logo="https://raw.githubusercontent.com/naggdd/iptv/master/logos/perviy.png" group-title="ΒΑΣΙΚΑ ΚΑΝΑΛΙΑ - BASIC CHANNELS", Первый канал (Москва)
+http://flussonic.mkpnet.ru/tv-4f9598ab5f91dca4/video.m3u8
 
 # SOURCE: https://github.com/iptv-org/iptv/blob/master/streams/ru.m3u
 #EXTINF:-1 tvg-id="Russia1.ru@HD" tvg-name="Россия 1 (Москва)" tvg-logo="https://raw.githubusercontent.com/naggdd/iptv/master/logos/rossiya_1.png" group-title="ΒΑΣΙΚΑ ΚΑΝΑΛΙΑ - BASIC CHANNELS", Россия 1 (Москва)
@@ -24,8 +24,8 @@ http://31.148.5.241/kanal_4/tracks-v1a1/mono.ts.m3u8
 http://31.148.5.241/kanal_13/tracks-v1a1/mono.ts.m3u8
 
 # SOURCE: https://github.com/iptv-org/iptv/blob/master/streams/ru.m3u
-#EXTINF:-1 tvg-id="Zvezda.ru@SD" tvg-name="Звезда (Москва, MSK UTC+3)" tvg-logo="https://raw.githubusercontent.com/naggdd/iptv/master/logos/zvezda.png" group-title="ΒΑΣΙΚΑ ΚΑΝΑΛΙΑ - BASIC CHANNELS", Звезда (Москва, MSK UTC+3)
-https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:-1 tvg-id="Zvezda.ru@SD" tvg-name="Звезда" tvg-logo="https://raw.githubusercontent.com/naggdd/iptv/master/logos/zvezda.png" group-title="ΒΑΣΙΚΑ ΚΑΝΑΛΙΑ - BASIC CHANNELS", Звезда
+http://31.148.5.241/kanal_17/tracks-v1a1/mono.ts.m3u8
 
 #EXTGRP:ΛΟΙΠΑ ΚΑΝΑΛΙΑ - OTHERS
 
