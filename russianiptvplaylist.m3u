@@ -661,3 +661,32 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
 
 #EXTINF:-1 tvg-name="ТСВ (Приднестровье)" group-title="ΡΩΣΙΑ - ΔΙΕΘΝΗ (RU) - RUSSIA - INTERNATIONAL (RU)", ТСВ (Приднестровье)
 https://tsv.md/stream/hls/tsv-online/index.m3u8
+
+# New public-source entries, NOT playback-verified (2026-11-16)
+#EXTINF:-1 tvg-name="Smotrim 100% Detskoe" tvg-country="RU" group-title="ΝΕΑ ΚΑΝΑΛΙΑ - NEW CHANNELS",Smotrim 100% Detskoe
+https://stream.smotrim.ru/hls/fasttv05/playlist_3.m3u8
+
+#EXTINF:-1 tvg-name="Smotrim 100% Fakty" tvg-country="RU" group-title="ΝΕΑ ΚΑΝΑΛΙΑ - NEW CHANNELS",Smotrim 100% Fakty
+https://stream.smotrim.ru/hls/fasttv06/playlist_3.m3u8
+
+#EXTINF:-1 tvg-name="Smotrim 100% Klassika" tvg-country="RU" group-title="ΝΕΑ ΚΑΝΑΛΙΑ - NEW CHANNELS",Smotrim 100% Klassika
+https://stream.smotrim.ru/hls/fasttv03/playlist_3.m3u8
+
+#EXTINF:-1 tvg-name="Smotrim 100% Lyubov" tvg-country="RU" group-title="ΝΕΑ ΚΑΝΑΛΙΑ - NEW CHANNELS",Smotrim 100% Lyubov
+https://stream.smotrim.ru/hls/fasttv01/playlist_2.m3u8
+
+#EXTINF:-1 tvg-name="Smotrim 100% Muzhskoe" tvg-country="RU" group-title="ΝΕΑ ΚΑΝΑΛΙΑ - NEW CHANNELS",Smotrim 100% Muzhskoe
+https://stream.smotrim.ru/hls/fasttv02/playlist_3.m3u8
+
+#EXTINF:-1 tvg-name="Smotrim 100% Prazdnik" tvg-country="RU" group-title="ΝΕΑ ΚΑΝΑΛΙΑ - NEW CHANNELS",Smotrim 100% Prazdnik
+https://stream.smotrim.ru/hls/fasttv04/playlist_3.m3u8
+
+#EXTINF:-1 tvg-name="RU.TV Kids" tvg-country="RU" group-title="ΝΕΑ ΚΑΝΑΛΙΑ - NEW CHANNELS",RU.TV Kids
+https://rutvkids.ru/live/efir/index.m3u8
+
+#EXTINF:-1 tvg-name="Sankt-Peterburg HD" tvg-country="RU" group-title="ΝΕΑ ΚΑΝΑΛΙΑ - NEW CHANNELS",Sankt-Peterburg HD
+https://stream.smotrim.ru/hls2/ext_spbtv/playlist_5.m3u8
+
+#EXTINF:-1 tvg-name="SONGTV Russia" tvg-country="RU" group-title="ΝΕΑ ΚΑΝΑΛΙΑ - NEW CHANNELS",SONGTV Russia
+https://songtv.hls.iptvdc.com/web-russia/playlist.m3u8
+
