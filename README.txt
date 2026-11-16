@@ -1,1 +1,3 @@
 Updated 2026-11-16. Original playlist entries preserved; new publicly listed channels added where URL/name not already present. NO stream availability or geo-access test was possible in this environment. Original streams may be broken. Greece: Europe/Athens (UTC+2 winter, UTC+3 summer). Moscow: Europe/Moscow (UTC+3). Playlist metadata cannot change broadcast delay or time-shift a stream. For actual local schedule, configure the player EPG timezone and use an EPG matching the exact feed. Source additions: Free-TV/IPTV Greece playlist and iptv-org Russia streams.
+
+Perviy Kanal: replaced unstable IP stream with Zabava CDN; added Yaroslavl backup. Links are NOT live-verified; regional/geo restrictions possible. Moscow schedule not verified.
